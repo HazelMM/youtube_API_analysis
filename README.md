@@ -3,7 +3,7 @@
 Working with Youtube's API to collect video statistics from youtube channels
 
 By: Hazel Mbambo
-October 20, 2022
+October 20, 2022 
 
 ## Video Links
 
